@@ -3,8 +3,8 @@
 ## 📌 Project Overview
 This project features an interactive Power BI dashboard designed to conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and outlet effectiveness. The goal of this analysis is to identify key sales insights and opportunities for business optimization using various KPIs and data visualizations based on a Kaggle dataset.
 
-![Blinkit Dashboard Main View](PLACEHOLDER_FOR_MAIN_DASHBOARD_SCREENSHOT_URL_HERE)
-
+![Blinkit Dashboard Main View](https://github.com/amanjaiswal712/Blinkit-Sales-Outlet-Performance-Dashboard/blob/main/Dashboard/Blinkit-Sales-Outlet-Performance-Dashboard.pbix)
+![Blinkit Dashboard Image](https://github.com/amanjaiswal712/Blinkit-Sales-Outlet-Performance-Dashboard/blob/main/Images/Total_sales.jpeg)
 ---
 
 ## 🌟 STAR Methodology Breakdown
@@ -37,11 +37,11 @@ The final dashboard provides a clear, interactive overview of Blinkit's sales op
 
 ### 1. High-Level KPI & Sales Distribution
 *(Brief description: This view highlights the top-level KPIs and the breakdown of sales by fat content and item type.)*
-![KPI & Sales Distribution](PLACEHOLDER_FOR_SCREENSHOT_1_URL_HERE)
+![KPI & Sales Distribution](https://github.com/amanjaiswal712/Blinkit-Sales-Outlet-Performance-Dashboard/blob/main/Images/Average_sales.png)
 
 ### 2. Outlet Performance & Geographic Analysis
 *(Brief description: This view showcases how different outlet sizes, types, and locations contribute to the overall revenue.)*
-![Outlet Performance](PLACEHOLDER_FOR_SCREENSHOT_2_URL_HERE)
+![Outlet Performance](https://github.com/amanjaiswal712/Blinkit-Sales-Outlet-Performance-Dashboard/blob/main/Images/HighSize_Outlet_Sales.png)
 
 ---
 
